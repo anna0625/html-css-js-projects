@@ -16,3 +16,4 @@ I'll be learning it everyday.
 * [FQA Boxes](https://codepen.io/anna625/pen/GRdrgYV) 15/09/2022
 * [Random Choice Picker](https://codepen.io/anna625/pen/mdLRvYr) 16/09/2022
 * [Animated Navigation](https://codepen.io/anna625/pen/GRdmKXJ) 21/09/2022
+* [Drink Water](https://codepen.io/anna625/pen/XWqeaKy) 24/09/2022
