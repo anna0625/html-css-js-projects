@@ -18,3 +18,4 @@ I'll be learning it everyday.
 * [Animated Navigation](https://codepen.io/anna625/pen/GRdmKXJ) 21/09/2022
 * [Drink Water](https://codepen.io/anna625/pen/XWqeaKy) 24/09/2022
 * [Movie API](https://codepen.io/anna625/pen/RwyjRem) 25/09/2022
+* [Background Slider](https://codepen.io/anna625/pen/vYjWrgm) 01/10/2022
